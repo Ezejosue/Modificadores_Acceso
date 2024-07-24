@@ -1,4 +1,5 @@
 package org.modica.app.hogar;
 
-public class ColorPelo {
+public enum ColorPelo {
+    Negro, CAFE, CASTANIO, RUBIO, COLORIN
 }
